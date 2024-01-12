@@ -3,3 +3,4 @@ openai
 gtts
 webbrowser
 os
+streamlit
